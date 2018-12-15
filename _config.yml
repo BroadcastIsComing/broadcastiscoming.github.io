@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            '0.0.0.0/0'
-tagline:          'Occasional networking stuff'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+tagline:          'Ocasional networking stuff'
+description:      'Ocasional networking suff'
 url:              "https://broadcastiscoming.github.io"
 baseurl:          ""
                   # the optional subpath of your site, e.g. "/blog"
