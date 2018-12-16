@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            '0.0.0.0/0'
-tagline:          'Ocasional networking stuff'
-description:      'Ocasional networking suff'
+tagline:          'Occasional Networking, Linux and Security stuff'
+description:      'Hold my beer, I will get that network working'
 url:              "https://broadcastiscoming.github.io"
 baseurl:          ""
                   # the optional subpath of your site, e.g. "/blog"
@@ -16,7 +16,7 @@ baseurl:          ""
 
 author:
   name:           'Etem Hyusnev'
-  url:            https://twitter.com/fongandrewc
+  url:            https://twitter.com/hyusnev
 
 paginate:         5
 # paginate_path:    '/page:num'
